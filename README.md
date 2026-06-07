@@ -62,7 +62,7 @@ Objects:
 
 		• Kitchen: Stove, Worktop, Cabinets (Upper/Lower), Refrigerator.
 
-	To do:
+To do:
 
 		1- Remove materials from the Blender models, since the materials will be applied in Unity anyway.
 
